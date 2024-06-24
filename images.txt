@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 jpomdocker/jpom:latest
+gocd/gocd-server:v23.5.0
+gocd/gocd-agent-alpine-3.12
