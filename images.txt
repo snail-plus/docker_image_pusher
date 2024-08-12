@@ -7,3 +7,4 @@ xhofe/alist:latest
 jpomdocker/jpom:latest
 gocd/gocd-server:v23.5.0
 gocd/gocd-agent-alpine-3.12
+sonarsource/sonar-scanner-cli:latest
