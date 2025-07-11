@@ -7,3 +7,4 @@ xhofe/alist:latest
 jpomdocker/jpom:latest
 sonarsource/sonar-scanner-cli:latest
 traefik:v3.3
+portainer/agent:sts
